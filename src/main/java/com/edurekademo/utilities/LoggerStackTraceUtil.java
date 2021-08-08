@@ -1,7 +1,7 @@
 package com.edurekademo.utilities;
 import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.slf4j.Logger;
-//import org.slf4j.LoggerFactory;
+import org.slf4j.LoggerFactory;
 
 // Class used to log the print stack trace items
 public class LoggerStackTraceUtil {
